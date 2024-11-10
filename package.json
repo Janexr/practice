@@ -1,0 +1,22 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "实践、记录",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start-examples": "cd examples && npx live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Janexr/practice.git"
+  },
+  "author": "Janexr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Janexr/practice/issues"
+  },
+  "homepage": "https://github.com/Janexr/practice#readme"
+}
